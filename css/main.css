@@ -1,0 +1,32 @@
+*{
+  background: #FFEBCD;
+  text-align: center;
+}
+h1{
+  font-family: 'Fredericka the Great', cursive;
+  font-weight: bold;
+
+}
+#div1{
+  height: 400px;
+  padding: 20px;
+
+  background:#000000;
+}
+#div2{
+  height: 350px;
+  padding: 20px;
+
+  background:	#F5F5DC;
+}
+#div3{
+  height: 300px;
+  padding: 20px;
+
+  background:	#DC143C;
+}
+img{
+  height: 200px;
+  width: 300px;
+  border-radius: 10px;
+}
